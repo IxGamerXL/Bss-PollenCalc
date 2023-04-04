@@ -1,2 +1,5 @@
 # Bss-PollenCalc
-A simple terminal program for Windows which allows you to calculate the amount of pollen a tool produces per second, as well as per use.
+
+A tool that lets you calculate the effective rate of pollen collection of a tool in Bee Swarm Simulator!
+
+Download the most recent release's attached executable, and then simply run it to begin calculating.
